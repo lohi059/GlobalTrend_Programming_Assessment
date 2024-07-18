@@ -1,0 +1,1 @@
+{"name":"Local: checkalphabet","url":"/home/lohi/programming/assignment/checkalphabet.cpp","tests":[{"id":1721281080602,"input":"aflialjfhkjah909","output":"NO"},{"id":1721281093307,"input":"kdhgkljhgksjhdkjKLJHG","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/lohi/programming/assignment/checkalphabet.cpp","group":"local","local":true}

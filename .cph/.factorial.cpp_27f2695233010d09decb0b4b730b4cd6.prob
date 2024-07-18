@@ -1,0 +1,1 @@
+{"name":"Local: factorial","url":"/home/lohi/programming/assignment/factorial.cpp","tests":[{"id":1721276520525,"input":"20","output":"2432902008176640000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/lohi/programming/assignment/factorial.cpp","group":"local","local":true}

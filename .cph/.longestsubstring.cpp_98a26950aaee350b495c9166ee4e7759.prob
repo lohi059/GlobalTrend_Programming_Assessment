@@ -1,0 +1,1 @@
+{"name":"Local: longestsubstring","url":"/home/lohi/programming/assignment/longestsubstring.cpp","tests":[{"id":1721232656741,"input":"u","output":"1"},{"id":1721289023732,"input":"hikaklyijahhlalfhh","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/lohi/programming/assignment/longestsubstring.cpp","group":"local","local":true}
